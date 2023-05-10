@@ -3,7 +3,7 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-David_Sandoval-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-felipe-sandoval-granados-300687222/)]((https://www.linkedin.com/in/david-felipe-sandoval-granados-300687222/))
+[![Linkedin Badge](https://img.shields.io/badge/-David_Sandoval-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-felipe-sandoval-granados-300687222/)](https://www.linkedin.com/in/david-felipe-sandoval-granados-300687222/)
 [![Gmail Badge](https://img.shields.io/badge/-davidfelipe3434@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidfelipe3434@gmail.com)](mailto:davidfelipe3434@gmail.com)
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
 <table>
@@ -14,7 +14,7 @@
         <li>🎓 &nbsp; Electronic Engineering 👨‍🚀 at <a href="https://www.escuelaing.edu.co/es/">ECI</a></li>
         <li>📚 &nbsp; Diploma in Software Development at <a href=https://www.utp.edu.co/>UTP</a></li>
         <li>👑 &nbsp; Consultant Junior </li>
-        <li>🤔 &nbsp; Interested in Machine Learning and IA/li>
+        <li>🤔 &nbsp; Interested in Machine Learning and IA</li>
        </ul>
        <p align="center">
          <br>

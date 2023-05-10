@@ -1,12 +1,13 @@
-### 
-<h1 align="center">Heyy, I'm David Sandoval👋<width="30px"></h1>
 
+
+<h1 align="center">Heyy, I'm David Sandoval<width="100px"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img></h1>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-David_Sandoval-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-felipe-sandoval-granados-300687222/)](https://www.linkedin.com/in/david-felipe-sandoval-granados-300687222/)
 [![Gmail Badge](https://img.shields.io/badge/-davidfelipe3434@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidfelipe3434@gmail.com)](mailto:davidfelipe3434@gmail.com)
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
-<table>
+
+<table  align="center">
   <tr>
     <td>
       <h2> 💻 &nbsp;About Me </h2>
